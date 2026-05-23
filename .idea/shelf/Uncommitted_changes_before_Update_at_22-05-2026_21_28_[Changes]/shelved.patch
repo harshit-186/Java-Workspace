@@ -1,0 +1,279 @@
+Index: out/production/Workspace/.idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"fcca7ba4-ef76-43aa-bb87-65d4dd557318\" name=\"Changes\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 2,\r\n  &quot;fromUser&quot;: false\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"3DvhJnjArJSGymDQRtGsW8NZZ2C\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;Application.ArrFor.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.CharTriangle.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.Nested.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.NestedArr.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.NestedTri.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.Pythagoras.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.Reverse3vartri.executor&quot;: &quot;Run&quot;,\r\n    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,\r\n    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,\r\n    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.file-colors&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151\" />\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"fcca7ba4-ef76-43aa-bb87-65d4dd557318\" name=\"Changes\" comment=\"\" />\r\n      <created>1779168381296</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1779168381296</updated>\r\n      <workItem from=\"1779168382358\" duration=\"75000\" />\r\n      <workItem from=\"1779168754520\" duration=\"6000\" />\r\n      <workItem from=\"1779168964910\" duration=\"6223000\" />\r\n      <workItem from=\"1779252660993\" duration=\"354000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/out/production/Workspace/.idea/workspace.xml b/out/production/Workspace/.idea/workspace.xml
+--- a/out/production/Workspace/.idea/workspace.xml	(revision 2b875298953d2c2c47eee4909a834e04ac2dc479)
++++ b/out/production/Workspace/.idea/workspace.xml	(date 1779465270451)
+@@ -1,7 +1,17 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="fcca7ba4-ef76-43aa-bb87-65d4dd557318" name="Changes" comment="" />
++    <list default="true" id="fcca7ba4-ef76-43aa-bb87-65d4dd557318" name="Changes" comment="">
++      <change afterPath="$PROJECT_DIR$/Array/ArrExit.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/out/ArrCmd.class" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/out/production/Workspace/.idea/vcs.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/out/production/Workspace/Array/ArrCmd.class" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/out/production/Workspace/Array/Arrloop.class" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/out/production/Workspace/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Array/ArrFor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/Array/ArrFor.class" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -14,6 +24,22 @@
+       </list>
+     </option>
+   </component>
++  <component name="Git.Settings">
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Array" />
++    <option name="ROOT_SYNC" value="DONT_SYNC" />
++  </component>
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;lastFilter&quot;: {
++    &quot;state&quot;: &quot;OPEN&quot;,
++    &quot;assignee&quot;: &quot;harshit-186&quot;
++  }
++}</component>
++  <component name="GithubPullRequestsUISettings">{
++  &quot;selectedUrlAndAccountId&quot;: {
++    &quot;url&quot;: &quot;https://github.com/harshit-186/Java-Workspace&quot;,
++    &quot;accountId&quot;: &quot;a212b87c-6b45-43da-a957-21f17b9d7f88&quot;
++  }
++}</component>
+   <component name="ProjectColorInfo">{
+   &quot;associatedIndex&quot;: 2,
+   &quot;fromUser&quot;: false
+@@ -23,24 +49,37 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;Application.ArrFor.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.CharTriangle.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.Nested.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.NestedArr.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.NestedTri.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.Pythagoras.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.Reverse3vartri.executor&quot;: &quot;Run&quot;,
+-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.file-colors&quot;,
+-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "Application.ArrCmd.executor": "Run",
++    "Application.ArrExit.executor": "Run",
++    "Application.ArrFor.executor": "Run",
++    "Application.Arrloop.executor": "Run",
++    "Application.CharTriangle.executor": "Run",
++    "Application.Nested.executor": "Run",
++    "Application.NestedArr.executor": "Run",
++    "Application.NestedTri.executor": "Run",
++    "Application.Pythagoras.executor": "Run",
++    "Application.Reverse3vartri.executor": "Run",
++    "ModuleVcsDetector.initialDetectionPerformed": "true",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
++    "RunOnceActivity.git.unshallow": "true",
++    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
++    "codeWithMe.voiceChat.enabledByDefault": "false",
++    "git-widget-placeholder": "master",
++    "ignore.virus.scanning.warn.message": "true",
++    "kotlin-language-version-configured": "true",
++    "nodejs_package_manager_path": "npm",
++    "settings.editor.selected.configurable": "reference.settings.ide.settings.file-colors",
++    "vue.rearranger.settings.migration": "true"
+   }
+-}</component>
++}]]></component>
++  <component name="RecentsManager">
++    <key name="MoveFile.RECENT_KEYS">
++      <recent name="C:\Users\yaduv\IdeaProjects\Java-Workspace\out" />
++    </key>
++  </component>
+   <component name="SharedIndexes">
+     <attachedChunks>
+       <set>
+@@ -59,11 +98,30 @@
+       <workItem from="1779168382358" duration="75000" />
+       <workItem from="1779168754520" duration="6000" />
+       <workItem from="1779168964910" duration="6223000" />
+-      <workItem from="1779252660993" duration="354000" />
++      <workItem from="1779252660993" duration="1871000" />
++      <workItem from="1779351045311" duration="1126000" />
++      <workItem from="1779352275801" duration="14000" />
++      <workItem from="1779353244616" duration="104000" />
++      <workItem from="1779354159368" duration="4000" />
++      <workItem from="1779358221137" duration="1097000" />
++      <workItem from="1779359690039" duration="204000" />
++      <workItem from="1779425435006" duration="87000" />
++      <workItem from="1779464860831" duration="410000" />
+     </task>
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
+   </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
+ </project>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"fcca7ba4-ef76-43aa-bb87-65d4dd557318\" name=\"Changes\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 2,\r\n  &quot;fromUser&quot;: false\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"3DvhJnjArJSGymDQRtGsW8NZZ2C\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Application.ArrFor.executor\": \"Run\",\r\n    \"Application.CharTriangle.executor\": \"Run\",\r\n    \"Application.Nested.executor\": \"Run\",\r\n    \"Application.NestedArr.executor\": \"Run\",\r\n    \"Application.NestedTri.executor\": \"Run\",\r\n    \"Application.Pythagoras.executor\": \"Run\",\r\n    \"Application.Reverse3vartri.executor\": \"Run\",\r\n    \"ModuleVcsDetector.initialDetectionPerformed\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.typescript.service.memoryLimit.init\": \"true\",\r\n    \"codeWithMe.voiceChat.enabledByDefault\": \"false\",\r\n    \"git-widget-placeholder\": \"main\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"settings.editor.selected.configurable\": \"reference.settings.ide.settings.file-colors\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151\" />\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"fcca7ba4-ef76-43aa-bb87-65d4dd557318\" name=\"Changes\" comment=\"\" />\r\n      <created>1779168381296</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1779168381296</updated>\r\n      <workItem from=\"1779168382358\" duration=\"75000\" />\r\n      <workItem from=\"1779168754520\" duration=\"6000\" />\r\n      <workItem from=\"1779168964910\" duration=\"6223000\" />\r\n      <workItem from=\"1779252660993\" duration=\"1871000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 2b875298953d2c2c47eee4909a834e04ac2dc479)
++++ b/.idea/workspace.xml	(date 1779465452857)
+@@ -1,7 +1,17 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="fcca7ba4-ef76-43aa-bb87-65d4dd557318" name="Changes" comment="" />
++    <list default="true" id="fcca7ba4-ef76-43aa-bb87-65d4dd557318" name="Changes" comment="">
++      <change afterPath="$PROJECT_DIR$/Array/ArrExit.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/out/ArrCmd.class" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/out/production/Workspace/.idea/vcs.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/out/production/Workspace/Array/ArrCmd.class" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/out/production/Workspace/Array/Arrloop.class" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/out/production/Workspace/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Array/ArrFor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/Array/ArrFor.class" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -15,8 +25,21 @@
+     </option>
+   </component>
+   <component name="Git.Settings">
+-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Array" />
++    <option name="ROOT_SYNC" value="DONT_SYNC" />
+   </component>
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;lastFilter&quot;: {
++    &quot;state&quot;: &quot;OPEN&quot;,
++    &quot;assignee&quot;: &quot;harshit-186&quot;
++  }
++}</component>
++  <component name="GithubPullRequestsUISettings">{
++  &quot;selectedUrlAndAccountId&quot;: {
++    &quot;url&quot;: &quot;https://github.com/harshit-186/Java-Workspace&quot;,
++    &quot;accountId&quot;: &quot;a212b87c-6b45-43da-a957-21f17b9d7f88&quot;
++  }
++}</component>
+   <component name="ProjectColorInfo">{
+   &quot;associatedIndex&quot;: 2,
+   &quot;fromUser&quot;: false
+@@ -28,7 +51,10 @@
+   </component>
+   <component name="PropertiesComponent"><![CDATA[{
+   "keyToString": {
++    "Application.ArrCmd.executor": "Run",
++    "Application.ArrExit.executor": "Run",
+     "Application.ArrFor.executor": "Run",
++    "Application.Arrloop.executor": "Run",
+     "Application.CharTriangle.executor": "Run",
+     "Application.Nested.executor": "Run",
+     "Application.NestedArr.executor": "Run",
+@@ -37,14 +63,23 @@
+     "Application.Reverse3vartri.executor": "Run",
+     "ModuleVcsDetector.initialDetectionPerformed": "true",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
++    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
++    "RunOnceActivity.git.unshallow": "true",
+     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+     "codeWithMe.voiceChat.enabledByDefault": "false",
+-    "git-widget-placeholder": "main",
++    "git-widget-placeholder": "master",
++    "ignore.virus.scanning.warn.message": "true",
+     "kotlin-language-version-configured": "true",
++    "nodejs_package_manager_path": "npm",
+     "settings.editor.selected.configurable": "reference.settings.ide.settings.file-colors",
+     "vue.rearranger.settings.migration": "true"
+   }
+ }]]></component>
++  <component name="RecentsManager">
++    <key name="MoveFile.RECENT_KEYS">
++      <recent name="C:\Users\yaduv\IdeaProjects\Java-Workspace\out" />
++    </key>
++  </component>
+   <component name="SharedIndexes">
+     <attachedChunks>
+       <set>
+@@ -64,6 +99,14 @@
+       <workItem from="1779168754520" duration="6000" />
+       <workItem from="1779168964910" duration="6223000" />
+       <workItem from="1779252660993" duration="1871000" />
++      <workItem from="1779351045311" duration="1126000" />
++      <workItem from="1779352275801" duration="14000" />
++      <workItem from="1779353244616" duration="104000" />
++      <workItem from="1779354159368" duration="4000" />
++      <workItem from="1779358221137" duration="1097000" />
++      <workItem from="1779359690039" duration="204000" />
++      <workItem from="1779425435006" duration="87000" />
++      <workItem from="1779464860831" duration="592000" />
+     </task>
+     <servers />
+   </component>
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"VcsDirectoryMappings\">\r\n    <mapping directory=\"$PROJECT_DIR$\" vcs=\"Git\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+--- a/.idea/vcs.xml	(revision 2b875298953d2c2c47eee4909a834e04ac2dc479)
++++ b/.idea/vcs.xml	(date 1779359171663)
+@@ -2,5 +2,6 @@
+ <project version="4">
+   <component name="VcsDirectoryMappings">
+     <mapping directory="$PROJECT_DIR$" vcs="Git" />
++    <mapping directory="$PROJECT_DIR$/Array" vcs="Git" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: out/production/Workspace/.idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/out/production/Workspace/.idea/vcs.xml b/out/production/Workspace/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1779359171663)
++++ b/out/production/Workspace/.idea/vcs.xml	(date 1779359171663)
+@@ -0,0 +1,7 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++    <mapping directory="$PROJECT_DIR$/Array" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
