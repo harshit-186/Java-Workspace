@@ -1,8 +1,9 @@
+
 package Array;
 
 public class ArrCmd {
     static void main(String[] args) {
-       int sum= 0 ;
+        int sum= 0 ;
         if(args.length<2)
             System.out.println("Please Enter 2 integer :");
         else{//loops
@@ -14,3 +15,4 @@ public class ArrCmd {
         }
     }
 }
+

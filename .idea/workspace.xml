@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="fcca7ba4-ef76-43aa-bb87-65d4dd557318" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/Array/ArrExit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/DoubleArr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Workspace/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/ArrCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/ArrCmd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Arrloop.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Arrloop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +95,8 @@
       <workItem from="1779686638746" duration="52000" />
       <workItem from="1779771485840" duration="4000" />
       <workItem from="1779771520697" duration="63000" />
+      <workItem from="1779772211513" duration="8000" />
+      <workItem from="1779856785816" duration="539000" />
     </task>
     <servers />
   </component>
