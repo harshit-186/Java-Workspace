@@ -49,6 +49,7 @@
     &quot;Application.ArrFor.executor&quot;: &quot;Run&quot;,
     &quot;Application.ArrIndex.executor&quot;: &quot;Run&quot;,
     &quot;Application.CharTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoubleArr.executor&quot;: &quot;Run&quot;,
     &quot;Application.ForEach.executor&quot;: &quot;Run&quot;,
     &quot;Application.Nested.executor&quot;: &quot;Run&quot;,
     &quot;Application.NestedArr.executor&quot;: &quot;Run&quot;,
@@ -96,7 +97,8 @@
       <workItem from="1779771485840" duration="4000" />
       <workItem from="1779771520697" duration="63000" />
       <workItem from="1779772211513" duration="8000" />
-      <workItem from="1779856785816" duration="539000" />
+      <workItem from="1779856785816" duration="1139000" />
+      <workItem from="1779858288310" duration="9000" />
     </task>
     <servers />
   </component>
