@@ -1,0 +1,47 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"fcca7ba4-ef76-43aa-bb87-65d4dd557318\" name=\"Changes\" comment=\"Add Sales\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;harshit-186&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/harshit-186/Java-Workspace.git&quot;,\r\n    &quot;accountId&quot;: &quot;a212b87c-6b45-43da-a957-21f17b9d7f88&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 2,\r\n  &quot;fromUser&quot;: false\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"3DvhJnjArJSGymDQRtGsW8NZZ2C\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Application.ArrFor.executor\": \"Run\",\r\n    \"Application.ArrIndex.executor\": \"Run\",\r\n    \"Application.CharTriangle.executor\": \"Run\",\r\n    \"Application.DoubleArr.executor\": \"Run\",\r\n    \"Application.ForEach.executor\": \"Run\",\r\n    \"Application.Nested.executor\": \"Run\",\r\n    \"Application.NestedArr.executor\": \"Run\",\r\n    \"Application.NestedTri.executor\": \"Run\",\r\n    \"Application.Pythagoras.executor\": \"Run\",\r\n    \"Application.Reverse3vartri.executor\": \"Run\",\r\n    \"Application.SalesArr.executor\": \"Run\",\r\n    \"ModuleVcsDetector.initialDetectionPerformed\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"RunOnceActivity.typescript.service.memoryLimit.init\": \"true\",\r\n    \"codeWithMe.voiceChat.enabledByDefault\": \"false\",\r\n    \"git-widget-placeholder\": \"main\",\r\n    \"ignore.virus.scanning.warn.message\": \"true\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"settings.editor.selected.configurable\": \"reference.settings.ide.settings.file-colors\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151\" />\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"fcca7ba4-ef76-43aa-bb87-65d4dd557318\" name=\"Changes\" comment=\"\" />\r\n      <created>1779168381296</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1779168381296</updated>\r\n      <workItem from=\"1779168382358\" duration=\"75000\" />\r\n      <workItem from=\"1779168754520\" duration=\"6000\" />\r\n      <workItem from=\"1779168964910\" duration=\"6223000\" />\r\n      <workItem from=\"1779252660993\" duration=\"1871000\" />\r\n      <workItem from=\"1779465923864\" duration=\"1951000\" />\r\n      <workItem from=\"1779506010817\" duration=\"4342000\" />\r\n      <workItem from=\"1779653975131\" duration=\"233000\" />\r\n      <workItem from=\"1779686430875\" duration=\"5000\" />\r\n      <workItem from=\"1779686530223\" duration=\"23000\" />\r\n      <workItem from=\"1779686577572\" duration=\"3000\" />\r\n      <workItem from=\"1779686638746\" duration=\"52000\" />\r\n      <workItem from=\"1779771485840\" duration=\"4000\" />\r\n      <workItem from=\"1779771520697\" duration=\"63000\" />\r\n      <workItem from=\"1779772211513\" duration=\"8000\" />\r\n      <workItem from=\"1779856785816\" duration=\"1139000\" />\r\n      <workItem from=\"1779858288310\" duration=\"9000\" />\r\n      <workItem from=\"1780281352425\" duration=\"8000\" />\r\n      <workItem from=\"1780281373957\" duration=\"29000\" />\r\n      <workItem from=\"1780281449569\" duration=\"35000\" />\r\n      <workItem from=\"1780281524398\" duration=\"770000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Add Sales\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1780282049074</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1780282049074</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Add Sales\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1780282221427</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1780282221427</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"3\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Add Sales\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Add Sales\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 3547301036b3ac0618ab4807c558c82caca3279f)
++++ b/.idea/workspace.xml	(date 1780282512235)
+@@ -1,7 +1,9 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="fcca7ba4-ef76-43aa-bb87-65d4dd557318" name="Changes" comment="Add Sales" />
++    <list default="true" id="fcca7ba4-ef76-43aa-bb87-65d4dd557318" name="Changes" comment="Add Sales">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -99,7 +101,7 @@
+       <workItem from="1780281352425" duration="8000" />
+       <workItem from="1780281373957" duration="29000" />
+       <workItem from="1780281449569" duration="35000" />
+-      <workItem from="1780281524398" duration="770000" />
++      <workItem from="1780281524398" duration="987000" />
+     </task>
+     <task id="LOCAL-00001" summary="Add Sales">
+       <option name="closed" value="true" />
+@@ -117,7 +119,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1780282221427</updated>
+     </task>
+-    <option name="localTasksCounter" value="3" />
++    <task id="LOCAL-00003" summary="Add Sales">
++      <option name="closed" value="true" />
++      <created>1780282326233</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1780282326233</updated>
++    </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
