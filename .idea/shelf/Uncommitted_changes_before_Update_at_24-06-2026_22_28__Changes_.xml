@@ -1,0 +1,20 @@
+<changelist name="Uncommitted_changes_before_Update_at_24-06-2026_22_28_[Changes]" date="1782320286510" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24-06-2026_22_28_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 24-06-2026 22:28 [Changes]" />
+  <binary>
+    <option name="AFTER_PATH" value="out/production/OOPs/CLASS/Obj.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24-06-2026_22_28_[Changes]/Obj.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="out/production/OOPs/CLASS/PassVar.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24-06-2026_22_28_[Changes]/PassVar.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="out/production/OOPs/CLASS/UseObj.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24-06-2026_22_28_[Changes]/UseObj.class" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="out/production/OOPs/CLASS/UsePassVar.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24-06-2026_22_28_[Changes]/UsePassVar.class" />
+  </binary>
+</changelist>
