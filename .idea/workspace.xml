@@ -3,31 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fcca7ba4-ef76-43aa-bb87-65d4dd557318" name="Changes" comment="Merge branch 'main' of https://github.com/harshit-186/Java-Workspace&#10;Passing Variables&#10;# Conflicts:&#10;#&#9;Methods/src/Demo2.java&#10;#&#9;Methods/src/Divide.java&#10;...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/src/CLASS/UseAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPs/src/CLASS/UseAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/src/CLASS/UseAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPs/src/CLASS/UseAdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/src/CLASS/UseCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPs/src/CLASS/UseCircle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/src/CLASS/UseConst.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPs/src/CLASS/UseConst.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/src/CLASS/UseDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPs/src/CLASS/UseDate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/src/CLASS/UseDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPs/src/CLASS/UseDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/src/CLASS/UseObj.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPs/src/CLASS/UseObj.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/src/CLASS/UsePrvtStudt.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPs/src/CLASS/UsePrvtStudt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/src/CLASS/UseRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPs/src/CLASS/UseRectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPs/CLASS/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPs/CLASS/Account.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPs/CLASS/Add.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPs/CLASS/Add.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPs/CLASS/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPs/CLASS/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPs/CLASS/Const.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPs/CLASS/Const.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPs/CLASS/Date.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPs/CLASS/Date.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPs/CLASS/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPs/CLASS/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPs/CLASS/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPs/CLASS/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPs/CLASS/Studt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPs/CLASS/Studt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPs/CLASS/UseAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPs/CLASS/UseAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPs/CLASS/UseAdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPs/CLASS/UseAdd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPs/CLASS/UseCircle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPs/CLASS/UseCircle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPs/CLASS/UseConst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPs/CLASS/UseConst.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPs/CLASS/UseDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPs/CLASS/UseDate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPs/CLASS/UseDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPs/CLASS/UseDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPs/CLASS/UsePrvtStudt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPs/CLASS/UsePrvtStudt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPs/CLASS/UseRectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPs/CLASS/UseRectangle.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +61,7 @@
     "Application.Star.executor": "Run",
     "Application.UseAccount.executor": "Run",
     "Application.UseAdd.executor": "Run",
+    "Application.UseArr.executor": "Run",
     "Application.UseCircle.executor": "Run",
     "Application.UseConst.executor": "Run",
     "Application.UseDate.executor": "Run",
