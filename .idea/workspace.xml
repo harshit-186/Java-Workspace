@@ -67,6 +67,7 @@
     "Application.UseDate.executor": "Run",
     "Application.UseDemo.executor": "Run",
     "Application.UseEmp.executor": "Run",
+    "Application.UseManager.executor": "Run",
     "Application.UseMyMath.executor": "Run",
     "Application.UseObj.executor": "Run",
     "Application.UsePassRef.executor": "Run",
