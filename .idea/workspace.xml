@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fcca7ba4-ef76-43aa-bb87-65d4dd557318" name="Changes" comment="Merge branch 'main' of https://github.com/harshit-186/Java-Workspace&#10;Passing Variables&#10;# Conflicts:&#10;#&#9;Methods/src/Demo2.java&#10;#&#9;Methods/src/Divide.java&#10;..." />
+    <list default="true" id="fcca7ba4-ef76-43aa-bb87-65d4dd557318" name="Changes" comment="Merge branch 'main' of https://github.com/harshit-186/Java-Workspace&#10;Passing Variables&#10;# Conflicts:&#10;#&#9;Methods/src/Demo2.java&#10;#&#9;Methods/src/Divide.java&#10;...">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,12 +62,15 @@
     "Application.UseAccount.executor": "Run",
     "Application.UseAdd.executor": "Run",
     "Application.UseArr.executor": "Run",
+    "Application.UseB.executor": "Run",
     "Application.UseCircle.executor": "Run",
     "Application.UseConst.executor": "Run",
     "Application.UseDate.executor": "Run",
     "Application.UseDemo.executor": "Run",
     "Application.UseEmp.executor": "Run",
     "Application.UseManager.executor": "Run",
+    "Application.UseManager2.executor": "Run",
+    "Application.UseManager3.executor": "Run",
     "Application.UseMyMath.executor": "Run",
     "Application.UseObj.executor": "Run",
     "Application.UsePassRef.executor": "Run",
@@ -75,6 +80,7 @@
     "Application.UseStudent.executor": "Run",
     "Application.UseThiss.executor": "Run",
     "Application.UseWorker.executor": "Run",
+    "Application.UseZ.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
