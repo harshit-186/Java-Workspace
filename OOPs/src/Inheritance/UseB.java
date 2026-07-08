@@ -4,6 +4,7 @@ class A {
         System.out.println("A constructor is called...");
     }
 }
+// Constructors Never Inherit in any class (they are just called)
 //Calling of non-parametrized Constructor
 class B extends A{
     public B(){
