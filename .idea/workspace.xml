@@ -78,6 +78,7 @@
     "Application.UseRectangle.executor": "Run",
     "Application.UseStatic.executor": "Run",
     "Application.UseStudent.executor": "Run",
+    "Application.UseSuperRef.executor": "Run",
     "Application.UseThiss.executor": "Run",
     "Application.UseWorker.executor": "Run",
     "Application.UseZ.executor": "Run",
