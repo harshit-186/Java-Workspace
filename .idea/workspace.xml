@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fcca7ba4-ef76-43aa-bb87-65d4dd557318" name="Changes" comment="Merge branch 'main' of https://github.com/harshit-186/Java-Workspace&#10;Passing Variables&#10;# Conflicts:&#10;#&#9;Methods/src/Demo2.java&#10;#&#9;Methods/src/Divide.java&#10;...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/src/Overriding/UseSaving.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPs/src/Overriding/UseSaving.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +59,7 @@
     "Application.Reverse3vartri.executor": "Run",
     "Application.SalesArr.executor": "Run",
     "Application.Star.executor": "Run",
+    "Application.Use.executor": "Run",
     "Application.UseAccount.executor": "Run",
     "Application.UseAdd.executor": "Run",
     "Application.UseArr.executor": "Run",
