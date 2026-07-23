@@ -9,6 +9,7 @@ package Class_Method;
         System.out.println("Hey hi U can't change me !");
     }
 }
+//final classes are not inherited further to the child classes
     class Finalle extends Final {
     public void ok(){
         System.out.println("I can override it ");
