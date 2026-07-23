@@ -13,7 +13,7 @@ class Circle implements Shape {
     @Override
     public void area() {
         Shape.super.area();
-        System.out.print(Math.PI * Math.pow(radius, 2));
+        System.out.println(Math.PI * Math.pow(radius, 2));
     }
 }
 

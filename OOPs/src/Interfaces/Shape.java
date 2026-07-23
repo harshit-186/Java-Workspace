@@ -2,7 +2,7 @@ package Interfaces;
 
     interface Shape {
         default void area() {//wants to change or not its on u
-            System.out.println("Area is ");
+            System.out.print("Area is ");
         }
 
         String name();//compulsory to override
