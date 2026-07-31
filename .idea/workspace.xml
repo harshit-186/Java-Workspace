@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcca7ba4-ef76-43aa-bb87-65d4dd557318" name="Changes" comment="Merge branch 'main' of https://github.com/harshit-186/Java-Workspace&#10;Passing Variables&#10;# Conflicts:&#10;#&#9;Methods/src/Demo2.java&#10;#&#9;Methods/src/Divide.java&#10;...">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPs/src/ExceptionHandling/TryCatch/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPs/src/ExceptionHandling/Methods/GetMsg.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,12 +113,12 @@
 }]]></component>
   <component name="RunManager">
     <configuration name="Demo" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.TryCatch.Demo" />
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.TryCatch.Methods.Demo" />
       <module name="OOPs" />
       <option name="PROGRAM_PARAMETERS" value="10 3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExceptionHandling.TryCatch.*" />
+          <option name="PATTERN" value="ExceptionHandling.TryCatch.Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

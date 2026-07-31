@@ -1,6 +1,6 @@
-package ExceptionHandling.TryCatch;
+package ExceptionHandling.Methods;
 
-public class Demo {
+public class GetMsg {
     static void main(String[] args) {
         try{
             int a = Integer.parseInt(args[0]);
