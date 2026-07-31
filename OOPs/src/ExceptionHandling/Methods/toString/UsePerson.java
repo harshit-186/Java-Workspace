@@ -1,4 +1,4 @@
-package ExceptionHandling.Methods;
+package ExceptionHandling.Methods.toString;
 class Person{
     private int age ;
     private String name ;
@@ -11,10 +11,9 @@ class Person{
         return "Age = "+age+", Name = "+name;
     }
 }
-public class ToString {
+public class UsePerson {
     static void main(String[] args) {
         Person p = new Person(21,"Amit");
         System.out.println(p);//Automatically called the toString() by giving the reference
     }
-
 }
