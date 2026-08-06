@@ -17,7 +17,7 @@ public class Divide {
             System.out.println("Division is "+c);
         }
         catch (ArithmeticException hex){
-            hex.getMessage();
+            System.out.println(hex.getMessage());
         }
     }
 }
