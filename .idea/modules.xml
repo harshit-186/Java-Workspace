@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOPs/OOPs.iml" filepath="$PROJECT_DIR$/OOPs/OOPs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringHandling/StringHandling.iml" filepath="$PROJECT_DIR$/StringHandling/StringHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/Workspace.iml" filepath="$PROJECT_DIR$/Workspace.iml" />
     </modules>
   </component>

@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fcca7ba4-ef76-43aa-bb87-65d4dd557318" name="Changes" comment="Merge branch 'main' of https://github.com/harshit-186/Java-Workspace&#10;Passing Variables&#10;# Conflicts:&#10;#&#9;Methods/src/Demo2.java&#10;#&#9;Methods/src/Divide.java&#10;..." />
+    <list default="true" id="fcca7ba4-ef76-43aa-bb87-65d4dd557318" name="Changes" comment="Merge branch 'main' of https://github.com/harshit-186/Java-Workspace&#10;Passing Variables&#10;# Conflicts:&#10;#&#9;Methods/src/Demo2.java&#10;#&#9;Methods/src/Divide.java&#10;...">
+      <change afterPath="$PROJECT_DIR$/StringHandling/StringHandling.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPs/src/ExceptionHandling/CustomExceptionClass/Custom.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExceptionHandling/CustomExceptionClass/Custom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPs/src/ExceptionHandling/CustomExceptionClass/Hex.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExceptionHandling/CustomExceptionClass/Hex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPs/src/ExceptionHandling/Finally/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExceptionHandling/Finally/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPs/src/ExceptionHandling/Methods/PrintStackTrace/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExceptionHandling/Methods/PrintStackTrace/Example1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPs/src/ExceptionHandling/Methods/getMsg/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExceptionHandling/Methods/getMsg/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPs/src/ExceptionHandling/Methods/toString/ToStringException.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExceptionHandling/Methods/toString/ToStringException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPs/src/ExceptionHandling/Methods/toString/UsePerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExceptionHandling/Methods/toString/UsePerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPs/src/ExceptionHandling/Throw/Divide.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExceptionHandling/Throw/Divide.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPs/src/ExceptionHandling/Throws/InputDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExceptionHandling/Throws/InputDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPs/src/ExceptionHandling/Throws/UseInputDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExceptionHandling/Throws/UseInputDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPs/src/ExceptionHandling/TryCatch/DivSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExceptionHandling/TryCatch/DivSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPs/src/ExceptionHandling/TryCatch/DivideSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExceptionHandling/TryCatch/DivideSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPs/src/ExceptionHandling/TryCatch/TryString.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExceptionHandling/TryCatch/TryString.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +71,7 @@
     "Application.DoubleArr.executor": "Run",
     "Application.Example1.executor": "Run",
     "Application.ForEach.executor": "Run",
+    "Application.Immutable.executor": "Run",
     "Application.Nested.executor": "Run",
     "Application.NestedArr.executor": "Run",
     "Application.NestedTri.executor": "Run",
