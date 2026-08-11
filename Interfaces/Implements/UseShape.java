@@ -1,7 +1,5 @@
 package Interfaces.Implements;
 
-import java.sql.SQLOutput;
-
 public class UseShape {
 
     static void main(String[] args) {

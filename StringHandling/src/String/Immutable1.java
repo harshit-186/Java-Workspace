@@ -5,10 +5,10 @@ public class Immutable1 {
         String str = "I" ;
         System.out.println(str);
 
-         str = str + "Love" ;//still exists in heap area anywhere
+         str = str + " Love" ;//still exists in heap area anywhere
         System.out.println(str);
 
-        str = str + "Java";//different reference
+        str = str + " Java";//different reference
         System.out.println(str);
     }
 }
