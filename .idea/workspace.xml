@@ -3,22 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fcca7ba4-ef76-43aa-bb87-65d4dd557318" name="Changes" comment="Merge branch 'main' of https://github.com/harshit-186/Java-Workspace&#10;Passing Variables&#10;# Conflicts:&#10;#&#9;Methods/src/Demo2.java&#10;#&#9;Methods/src/Divide.java&#10;...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/src/Interfaces/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interfaces/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/src/Interfaces/Implements/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interfaces/Implements/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/src/Interfaces/Implements/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interfaces/Implements/Cylinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/src/Interfaces/Implements/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interfaces/Implements/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/src/Interfaces/Implements/UseShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interfaces/Implements/UseShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/src/Interfaces/Interf1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interfaces/Interf1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/src/Interfaces/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interfaces/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/src/Interfaces/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interfaces/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/src/Interfaces/Use.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interfaces/Use.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/src/Interfaces/extend/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interfaces/extend/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/src/Interfaces/extend/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interfaces/extend/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/src/Interfaces/extend/Shape1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interfaces/extend/Shape1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/src/Interfaces/extend/UseMyShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interfaces/extend/UseMyShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringHandling/src/String/Immutable1.java" beforeDir="false" afterPath="$PROJECT_DIR$/StringHandling/src/String/Immutable1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StringHandling/NewString_Vs_String/Hex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StringHandling/NewString_Vs_String/Hex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StringHandling/String/Immutable1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StringHandling/String/Immutable1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +46,7 @@
     "Application.AddSales.executor": "Run",
     "Application.ArrFor.executor": "Run",
     "Application.ArrIndex.executor": "Run",
+    "Application.CharAt.executor": "Run",
     "Application.CharTriangle.executor": "Run",
     "Application.CountRtriangle.executor": "Run",
     "Application.Custom.executor": "Run",
@@ -71,6 +56,7 @@
     "Application.Divide.executor": "Run",
     "Application.DivideSum.executor": "Run",
     "Application.DoubleArr.executor": "Run",
+    "Application.Equals.executor": "Run",
     "Application.Example1.executor": "Run",
     "Application.ForEach.executor": "Run",
     "Application.Hex.executor": "Run",
