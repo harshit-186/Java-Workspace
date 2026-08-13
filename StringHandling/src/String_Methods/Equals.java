@@ -2,6 +2,7 @@ package String_Methods;
 
 public class Equals {
     static void main() {
+
         // it is a method of Object class and String class Overridden it
         String str1 = new String("Welcome");
         String str2 = new String("Welcome");
