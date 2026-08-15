@@ -8,6 +8,7 @@ public class CompareTo {
         String s4 = new String("AJAY");
 
 
+        //datatype of int compareTo()
         //case-sensitive (+ve defines larger string)
         System.out.println(s2.compareTo(s1));//gives unicode 8
         System.out.println(s1.compareTo(s2));//-8
