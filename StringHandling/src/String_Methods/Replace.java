@@ -6,10 +6,6 @@ public class Replace {
         String str = "DOVE";
         System.out.println(str.replace('D','L'));
 
-        String ctr = "BLUEBLUE";
 
-        System.out.println(ctr.replaceFirst("UE" , "ACK"));
-
-        System.out.println(ctr.replaceAll("UE" , "ACK"));
     }
 }
