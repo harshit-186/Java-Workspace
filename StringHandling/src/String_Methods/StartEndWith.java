@@ -7,9 +7,11 @@ public class StartEndWith {
 
         System.out.println(str.startsWith("PRO"));//true
         System.out.println(str.startsWith("GRAM"));//false
-        System.out.println(str.startsWith("pro"));
+        System.out.println(str.startsWith("pro"));//false
 
         System.out.println(str.endsWith("GRAMMING"));//true
         System.out.println(str.endsWith("gramming"));//false
+        System.out.println(str.endsWith("he"));//false
+
     }
 }
