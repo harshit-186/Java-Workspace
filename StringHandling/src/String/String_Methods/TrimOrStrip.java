@@ -1,4 +1,4 @@
-package String_Methods;
+package String.String_Methods;
 
 public class TrimOrStrip {
 static void main(String[] args) {

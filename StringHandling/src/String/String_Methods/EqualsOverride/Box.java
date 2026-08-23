@@ -1,4 +1,4 @@
-package String_Methods.EqualsOverride;
+package String.String_Methods.EqualsOverride;
 
 public class Box {
     private int l , b , h ;
