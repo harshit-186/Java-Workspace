@@ -1,6 +1,6 @@
 package RunnableExample;
 
-public class MyThread implements Runnable {
+public class MyRunnable implements Runnable {
         public void run(){
             try{
                 for (int i = 2 ; i <= 10 ; i+=2){
