@@ -2,7 +2,8 @@ package Array;
 
 import java.util.Scanner;
 
-public class ArrIndex {
+public class
+ArrIndex {
     static void main(String[] args) {
         int [] arr ={50,40,70,20,60,85};
         Scanner sc = new Scanner(System.in);
