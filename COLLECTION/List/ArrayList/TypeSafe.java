@@ -13,5 +13,6 @@ public class TypeSafe {
 //        marks.add("Amit"); // Syntax Error
 
         String str = names.get(0); // no need of Explicit conversion
+        System.out.println(str);
     }
 }
