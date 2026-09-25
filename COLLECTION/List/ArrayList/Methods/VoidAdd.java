@@ -11,6 +11,9 @@ public class VoidAdd {
         ref.add(1,30);
         ref.add(1,50);
         ref.add(0,80);
+        ref.add(5,90); // Size is 4 , index 5 will give Exception
+        // Unchecked RunTime Exception Family Collection is gives
+        //IndexOutOfBoundsException
         System.out.println(ref);
     }
 }
