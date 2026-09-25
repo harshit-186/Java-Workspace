@@ -15,6 +15,5 @@ public class BooleanAdd {
         myList.add(50); // Duplicates allows in ArrayList
         myList.add(20);
         System.out.println(myList); // OverRiding of toString() by List
-
     }
 }
