@@ -1,10 +1,11 @@
-package COLLECTION.List.ArrayList.Methods;
+package COLLECTION.List.ArrayList.Methods.SearchingAL;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class MyListSize {
+public class BooleanContains {
     static void main(String[] args) {
+        // Collections  method
         List<String> myList = new ArrayList<>();
         myList.add("HEX");
         myList.add("CYPAR");
@@ -12,11 +13,6 @@ public class MyListSize {
         myList.add("ALBADIE");
         myList.add("AIRI");
         myList.add("SUPER");
-//        size() is Collections method
-        System.out.println("The size of myList is : "+myList.size());
-//        System.out.println(myList);
-        for(String x : myList){
-            System.out.println("Gamer : " + x);
-        }
+        System.out.println("HEX is in myList ? : "+myList.contains("HEX"));
     }
 }
