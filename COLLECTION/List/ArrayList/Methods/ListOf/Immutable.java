@@ -16,5 +16,6 @@ public class Immutable {
         else{
             System.out.println("Rank is "+(x+1));
         }
+        gamerist.add("DEATH");//Exception
     }
 }
