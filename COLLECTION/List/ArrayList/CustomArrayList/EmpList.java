@@ -2,6 +2,7 @@ package COLLECTION.List.ArrayList.CustomArrayList;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Scanner;
 
 public class EmpList {
     static void main(String[] args) {
@@ -20,6 +21,20 @@ public class EmpList {
 
         for (Emp x : empList){
             System.out.println(x);//gives hashCode so we override toString() in Emp class
+        }
+
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter age, name and salary to remove from List : ");
+        int age = sc.nextInt();
+        String name = sc.next().toUpperCase();
+        double sal = sc.nextDouble();
+
+        Emp e = new Emp(age , name , sal);
+        System.out.println("Removed ? "+empList.remove(e));
+
+        System.out.println("After Removing");
+        for (Emp x : empList){
+            System.out.println(x);
         }
     }
 }
