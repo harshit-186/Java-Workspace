@@ -1,6 +1,6 @@
 package COLLECTION.List.ArrayList.CustomArrayList;
 
-public class Emp {
+public class Emp implements Comparable<Emp>{
     private int  age;
     private String name ;
     private double sal ;
@@ -21,6 +21,11 @@ public class Emp {
         if(this.age==p.age && this.name.equals(p.name) && this.sal==p.sal )
             return true;
         return false;
+    }
+
+    // 3 compareTo()
+    public int compareTo(Emp o){
+        return this.age-o.age; // ascending order sort (Natural sorting)
     }
 
 }

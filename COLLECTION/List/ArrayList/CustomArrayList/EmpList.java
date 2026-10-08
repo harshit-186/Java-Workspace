@@ -1,6 +1,7 @@
 package COLLECTION.List.ArrayList.CustomArrayList;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
@@ -33,6 +34,13 @@ public class EmpList {
         System.out.println("Removed ? "+empList.remove(e));
 
         System.out.println("After Removing");
+        for (Emp x : empList){
+            System.out.println(x);
+        }
+
+        Collections.sort(empList);
+        System.out.println();
+        System.out.println("After Sorting");
         for (Emp x : empList){
             System.out.println(x);
         }
