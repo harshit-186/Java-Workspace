@@ -10,4 +10,8 @@ public class Emp {
         this.name = name;
         this.sal = sal;
     }
+    // 1
+    public String toString(){
+        return "Age : "+age+", Name : "+name+", Salary : "+sal;
+    }
 }
