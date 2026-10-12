@@ -15,6 +15,7 @@ public class IteratorOnAL {
         myList.add(50);
         myList.add(10);
         System.out.println("Size : "+myList.size());
+        System.out.println(myList.iterator().getClass().getName());
         Iterator<Integer> it = myList.iterator();
         while (it.hasNext()){
             int x = it.next();
