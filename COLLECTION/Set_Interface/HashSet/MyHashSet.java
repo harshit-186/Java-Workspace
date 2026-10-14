@@ -25,6 +25,9 @@ public class MyHashSet {
         String s5 = new String("Ea");
         System.out.println("s4 hashCode : "+s4.hashCode());// Same hashCode
         System.out.println("s5 hashCode : "+s5.hashCode());// Same hashCode
+        mySet.add(s4);
+        mySet.add(s5);
+        System.out.println(mySet);
 
     }
 }
