@@ -7,5 +7,8 @@ public class Apple implements Fruit {
     public String color(){
         return "Red";
     }
+    public String name(){
+        return "Apple" ;
+    }
 
 }
