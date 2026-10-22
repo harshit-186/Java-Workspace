@@ -1,10 +1,12 @@
-package MAP;
+package MAP.HashMap;
 
 import java.util.HashMap;
 import java.util.Map;
 
 public class Key_Value {
     static void main(String[] args) {
+
+        //Map store values in Key_Value pairs
         Map<Integer,String> myMap = new HashMap<>();
         //MAP has no Iterator interface
         myMap.put(10,"Ketan");
