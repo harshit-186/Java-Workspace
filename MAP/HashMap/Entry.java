@@ -3,7 +3,7 @@ package MAP.HashMap;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Key_Value {
+public class Entry {
     static void main(String[] args) {
 
         //Map store values in Key_Value pairs

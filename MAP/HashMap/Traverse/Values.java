@@ -19,7 +19,7 @@ public class Values {
         for (String items : itemNames) {
             System.out.println(items);
         }
-            int total = 0;
+            double total = 0;
             Collection<Double> itemPrice = shopCart.values();
             for(Double price : itemPrice){
                 total +=price;
