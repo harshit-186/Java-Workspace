@@ -26,7 +26,7 @@ public class Stack {
         int x = arr[tos];
         tos--;
         return x;
-        //return arr[tos--]=x;
+        //return arr[tos--];
     }
     public int peek(){
         if(tos==-1){
