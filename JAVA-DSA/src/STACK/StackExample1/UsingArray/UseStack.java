@@ -1,4 +1,4 @@
-package StackExample.UsingArray;
+package STACK.StackExample1.UsingArray;
 
 //import StackExample.Stack;
 

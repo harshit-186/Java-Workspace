@@ -1,4 +1,4 @@
-package StackExample;
+package STACK.StackExample1;
 
 public class Stack {
     private int [] arr ;

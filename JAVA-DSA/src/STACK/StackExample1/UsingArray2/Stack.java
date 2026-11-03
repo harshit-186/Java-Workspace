@@ -1,16 +1,16 @@
-package StackExample.UsingArray;
+package STACK.StackExample1.UsingArray2;
+
+//import StackExample.UsingArray.StackException;
 
 public class Stack {
     private int [] arr ;
-    private int size ;
     private int tos;
     public Stack(int size){
-        this.size=size;
         tos = -1;
         arr = new int[size];
     }
     public void push(int x){
-        if(tos==size-1){
+        if(tos== arr.length-1){
             StackException ex = new StackException("Stack Overflow");
             throw ex;
 //            System.out.println("Stack Overflow");

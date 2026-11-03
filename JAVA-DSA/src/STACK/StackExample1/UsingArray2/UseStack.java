@@ -1,9 +1,9 @@
-package StackExample.UsingArray2;
+package STACK.StackExample1.UsingArray2;
 
 //import StackExample.Stack;
 
-import StackExample.UsingArray.Stack;
-import StackExample.UsingArray.StackException;
+//import StackExample.UsingArray.Stack;
+//import StackExample.UsingArray.StackException;
 
 import java.util.Scanner;
 
